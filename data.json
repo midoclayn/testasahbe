@@ -1,0 +1,21 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-9130547507605791/3193861083",
+    "applovinBanner": "a17943e57d120444",
+    "applovinInterstitial": "89d9bcbf4c1f79ef",
+    "ApplovinNative": "89d9bcbf4c1f79ef",
+    "unityGameId": "5414379",
+    "personalnative": "https://pan1-disneyaziz.netlify.app/native1.png",
+    "personaldirection": "https://play.google.com/store/apps/details?id=com.pupstruction.createacoaster.phinny.game",
+    "personalnative2": "https://pan1-disneyaziz.netlify.app/native2.png",
+    "personaldirection2": "https://play.google.com/store/apps/details?id=com.bluey.bingo.disney.game",
+    "hidedataw": haram,
+    "testMode": false,
+    "modeads": false,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "reviewActive": true
+  }
+}
